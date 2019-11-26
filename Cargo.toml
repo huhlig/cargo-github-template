@@ -1,0 +1,9 @@
+[package]
+name = "{{project-name}}"
+version = "0.1.0"
+edition = "2018"
+authors = ["{{authors}}"]
+license = "Apache-2.0"
+
+[badges]
+travis-ci = { repository = "huhlig/{{project-name}}" }
